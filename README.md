@@ -1,0 +1,3 @@
+# Java-practicals
+this is my java experimental files...
+Hey this is my first github repository, I will you it for my java practicals.
