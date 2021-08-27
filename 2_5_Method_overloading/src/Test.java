@@ -19,10 +19,13 @@ public class Test {
             switch (choice) {
                 case 1:
                     whirlPool.power();
+                    break;
                 case 2:
                     whirlPool.program();
+                    break;
                 case 3:
                     whirlPool = new WashingMachine();
+                    break;
             }
 
         } while (whirlPool.machinePower);
