@@ -252,4 +252,10 @@ public class WashingMachine {
             countTime += heavySpinTime;
         }
     }
+
+    /**
+     * // TODO: 8/27/2021 Add water tank functionality in which they use actual water from water tank.
+     *  show error when tank runs out of water.
+     *  ask user to fill the water tank.
+     */
 }
