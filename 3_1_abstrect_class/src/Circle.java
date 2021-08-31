@@ -2,7 +2,7 @@ import static java.lang.Math.PI;
 import static java.lang.Math.pow;
 
 public class Circle extends GeometricObject {
-    double radius;
+    private double radius;
 
     /**
      * Default Constructor
@@ -47,6 +47,14 @@ public class Circle extends GeometricObject {
      */
     double getDiameter(){
         return 2*getRadius();
+    }
+
+    @Override
+    public String toString() {
+
+        return super.toString()+"\n\tCircle{" +
+                "radius=" + radius +
+                '}';
     }
 
     /**
