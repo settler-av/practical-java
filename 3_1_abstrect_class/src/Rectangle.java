@@ -1,11 +1,11 @@
-public class Reactangle extends GeometricObject {
-    double width;
-    double height;
+public class Rectangle extends GeometricObject {
+    private double width;
+    private double height;
 
     /**
      * Default constructor.
      */
-    public Reactangle() {
+    public Rectangle() {
         height = 0;
         width = 0;
     }
@@ -15,7 +15,7 @@ public class Reactangle extends GeometricObject {
      * @param width set the width of Rectangle.
      * @param height set the height of Rectangle.
      */
-    public Reactangle(double width, double height) {
+    public Rectangle(double width, double height) {
         this.width = width;
         this.height = height;
     }
@@ -27,7 +27,7 @@ public class Reactangle extends GeometricObject {
      * @param width set the width of Rectangle.
      * @param height set the height of Rectangle.
      */
-    public Reactangle(String color, boolean filled, double width, double height) {
+    public Rectangle(String color, boolean filled, double width, double height) {
         super(color, filled);
         this.width = width;
         this.height = height;
@@ -65,6 +65,14 @@ public class Reactangle extends GeometricObject {
         this.height = height;
     }
 
+    @Override
+    public String toString() {
+        return super.toString()+"\n\tRectangle{" +
+                "width=" + width +
+                ", height=" + height +
+                '}';
+    }
+
     /**
      * calculates the area of Rectangle.
      * @return Area of Rectangle
@@ -73,6 +81,7 @@ public class Reactangle extends GeometricObject {
     public double getArea(){
         return height*width;
     }
+
     @Override
     public double getPerimeter(){
         return 2*(height+width);

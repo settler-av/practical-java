@@ -15,9 +15,9 @@ import java.util.Date;
 
 
 public abstract class GeometricObject {
-    String color;
-    boolean filled;
-    Date dateCreated;
+    private String color;
+    private boolean filled;
+    private Date dateCreated;
 
     /**
      * Default constructor.
