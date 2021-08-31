@@ -86,13 +86,13 @@ public abstract class GeometricObject {
     }
 
     /**
-     * Abstract method that will be overridden by Class Circle and Triangle
+     * Abstract method that will be overridden by Class Circle and rectangle.
      * @return the area of shape.
      */
     abstract double getArea();
 
     /**
-     * Abstract method that will be overridden by Class Circle and Triangle
+     * Abstract method that will be overridden by Class Circle and rectangle.
      * @return return the perimeter of shape.
      */
     abstract double getPerimeter();
