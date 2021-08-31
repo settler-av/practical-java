@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2_5_Method_overloading/2_5_Method_overloading.iml" filepath="$PROJECT_DIR$/2_5_Method_overloading/2_5_Method_overloading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java-practicals.iml" filepath="$PROJECT_DIR$/Java-practicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_1_abstrect_class/3_1_abstrect_class.iml" filepath="$PROJECT_DIR$/3_1_abstrect_class/3_1_abstrect_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Practicals.iml" filepath="$PROJECT_DIR$/.idea/Java Practicals.iml" />
     </modules>
   </component>
 </project>
