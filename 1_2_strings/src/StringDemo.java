@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-
-
-
 /**
  * A typical mobile number in India is “+91-AA-BBB-CCCCC”. Where the first two digits (AA)
  * indicate a mobile system operator, the next three (BBB) denote the mobile switching code
@@ -15,8 +12,17 @@ import java.util.Scanner;
  * MSC is 999
  * Unique code is 65789
  * https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html for reference
+ *
+ * @author Adnan Vahora 20CE155.
  */
+
+
 public class StringDemo {
+
+    /**
+     * Main Function
+     * @param args
+     */
     public static void main(String[] args) {
         //Enter the input from user side
         Scanner in = new Scanner(System.in);
@@ -24,6 +30,12 @@ public class StringDemo {
         String mobileNumber = in.nextLine();
 
     }
+
+    /**
+     * Function to validate Mobile number.
+     * @param Number Number entered by user
+     * @return boolean : whether the number is valid or not.
+     */
     public static boolean validateNumber(String Number){
         if(Number.startsWith("+"))
         {
