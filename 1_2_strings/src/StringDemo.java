@@ -28,7 +28,15 @@ public class StringDemo {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the Mobile number : ");
         String mobileNumber = in.nextLine();
+        boolean result = validateNumber(mobileNumber);
+        if (result){
+            System.out.println("YOu have entered correct Mobile number");
+        }
+        else System.out.println("Incorrect Number");
 
+        /**
+         * @// TODO: 03-09-2021 Show Mobile Number specifications.
+         */
     }
 
     /**
