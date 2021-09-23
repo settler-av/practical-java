@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_2_strings/1_2_strings.iml" filepath="$PROJECT_DIR$/1_2_strings/1_2_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_4_arrays/1_4_arrays.iml" filepath="$PROJECT_DIR$/1_4_arrays/1_4_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_5_/1_5_.iml" filepath="$PROJECT_DIR$/1_5_/1_5_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_1_Constructor/2_1_Constructor.iml" filepath="$PROJECT_DIR$/2_1_Constructor/2_1_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_2_Account/2_2_Account.iml" filepath="$PROJECT_DIR$/2_2_Account/2_2_Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_4_Account_inheritance/2_4_Account_inheritance.iml" filepath="$PROJECT_DIR$/2_4_Account_inheritance/2_4_Account_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_5_Method_overloading/2_5_Method_overloading.iml" filepath="$PROJECT_DIR$/2_5_Method_overloading/2_5_Method_overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_1_abstrect_class/3_1_abstrect_class.iml" filepath="$PROJECT_DIR$/3_1_abstrect_class/3_1_abstrect_class.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java Practicals.iml" filepath="$PROJECT_DIR$/.idea/Java Practicals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-practicals.iml" filepath="$PROJECT_DIR$/Java-practicals.iml" />
     </modules>
   </component>
 </project>

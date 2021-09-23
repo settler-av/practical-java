@@ -1,3 +1,5 @@
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Scanner;
 
 /**
@@ -44,7 +46,7 @@ public class StringDemo {
      * @param Number Number entered by user
      * @return boolean : whether the number is valid or not.
      */
-    public static boolean validateNumber(String Number){
+    public static boolean validateNumber(@NotNull String Number){
         if(Number.startsWith("+"))
         {
             String[] splitNumber = Number.split("-",4);
