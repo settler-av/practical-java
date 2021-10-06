@@ -4,7 +4,8 @@ import java.text.SimpleDateFormat;
 
 /**
  * Account class
- * Author : 20CE155 @ADNAN_VAHORA
+ *
+ * @author 20CE155 ADNAN_VAHORA
  * Date : 8/19/2021
  */
 
@@ -63,9 +64,11 @@ public class Account {
     }
 
     //method to get MonthlyIntrest()
-    double getMonthlyInterest(){
-        return getAnnualInterestRate()*balance*.01;
+    double getMonthlyInterest() {
+        return getAnnualInterestRate() * balance * .01;
+
     }
+
     //method to get MonthlyIntrestRate()
     double getMonthlyInt() {
         return annualInterestRate / 12.0;
@@ -81,11 +84,10 @@ public class Account {
         balance -= deduct;
     }
 
+
     //print Account Info - used in ATM class
-    void printAccountInfo(){
-        System.out.println("Account id : "+ id);
-        System.out.println("Account balance : "+ balance);
+    void printAccountInfo() {
+        System.out.println("Account id : " + id);
+        System.out.println("Account balance : " + balance);
     }
-
-
 }
