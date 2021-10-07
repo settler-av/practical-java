@@ -50,11 +50,12 @@ public class StringDemo {
         if(Number.startsWith("+"))
         {
             String[] splitNumber = Number.split("-",4);
-            if ((splitNumber[1].length() == 2) && (splitNumber[0].contains()) )
+//            if ((splitNumber[1].length() == 2) && (splitNumber[0].contains()) )
         }
         else{
             System.out.println("You haven't Entered the number in wrong format\nError : Missing \"+\"");
             return false;
         }
+        return false;
     }
 }
