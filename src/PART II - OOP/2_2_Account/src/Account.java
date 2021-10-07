@@ -63,13 +63,13 @@ public class Account {
         return dateCreated;
     }
 
-    //method to get MonthlyIntrest()
+    //method to get MonthlyInterest()
     double getMonthlyInterest() {
         return getAnnualInterestRate() * balance * .01;
 
     }
 
-    //method to get MonthlyIntrestRate()
+    //method to get MonthlyInterestRate()
     double getMonthlyInt() {
         return annualInterestRate / 12.0;
     }
@@ -80,8 +80,14 @@ public class Account {
     }
 
     //A method named withdraw that withdraws a specified amount from the account
-    void withdraw(int deduct) {
-        balance -= deduct;
+    boolean withdraw(int deduct) {
+        if(getBalance() <= 300){
+            System.out.println(" Error: minimum balance limit reached");
+            return true;
+        }else {
+            balance -= deduct;
+            return false;
+        }
     }
 
 
