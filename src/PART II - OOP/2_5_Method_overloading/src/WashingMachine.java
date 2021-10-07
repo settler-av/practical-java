@@ -240,6 +240,7 @@ public class WashingMachine {
      * Independent method to spin clothes.
      * @param mode tells how much time to spin clothes.
      */
+
     void spinRun(@NotNull String mode){
         //noinspection DuplicatedCode
         if(mode.equalsIgnoreCase("speedy")){
@@ -252,10 +253,9 @@ public class WashingMachine {
             countTime += heavySpinTime;
         }
     }
-
-    /**
-     * // TODO: 8/27/2021 Add water tank functionality in which they use actual water from water tank.
-     *  show error when tank runs out of water.
-     *  ask user to fill the water tank.
-     */
+/*
+ * // TODO: 8/27/2021 Add water tank functionality in which they use actual water from water tank.
+ *  show error when tank runs out of water.
+ *  ask user to fill the water tank.
+ */
 }
