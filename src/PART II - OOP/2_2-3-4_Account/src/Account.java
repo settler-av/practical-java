@@ -11,7 +11,7 @@ import java.text.SimpleDateFormat;
 
 public class Account {
     private int id;
-    private double balance;
+    protected double balance;
     private double annualInterestRate;
 
     String pattern = "dd-mm-yyyy";
