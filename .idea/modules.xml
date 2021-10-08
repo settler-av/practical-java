@@ -9,12 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/2_2-3-4_Account.iml" filepath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/2_2-3-4_Account.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/2_5_Method_overloading.iml" filepath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/2_5_Method_overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_1_abstrect_class.iml" filepath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_1_abstrect_class.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_2_abstrect_class.iml" filepath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_2_abstrect_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/3_2_interfaces.iml" filepath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/3_2_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/3_3_interfaces inheritance.iml" filepath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/3_3_interfaces inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_1_File_basics/5_1_File_basics.iml" filepath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_1_File_basics/5_1_File_basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_2_char-byte_stream/5_2_char-byte_stream.iml" filepath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_2_char-byte_stream/5_2_char-byte_stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/5_3_data_transfer.iml" filepath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/5_3_data_transfer.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART VI - Multithreading/6_1_RunnableInterface_ThreadClass/6_1_RunnableInterface_ThreadClass.iml" filepath="$PROJECT_DIR$/src/PART VI - Multithreading/6_1_RunnableInterface_ThreadClass/6_1_RunnableInterface_ThreadClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART VI - Multithreading/6_2_RandomNumbers/6_2_RandomNumbers.iml" filepath="$PROJECT_DIR$/src/PART VI - Multithreading/6_2_RandomNumbers/6_2_RandomNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/PART VII - Collection Framework and Generic/7_2 HashMap &amp; HashSet/7_2 HashMap &amp; HashSet.iml" filepath="$PROJECT_DIR$/src/PART VII - Collection Framework and Generic/7_2 HashMap &amp; HashSet/7_2 HashMap &amp; HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-practicals.iml" filepath="$PROJECT_DIR$/Java-practicals.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/test.iml" filepath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/test.iml" />
     </modules>

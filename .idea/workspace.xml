@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="make subclass of Account class">
-      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2/classDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/IPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/IScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/photoPrintMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART VII - Collection Framework and Generic/7_2 HashMap &amp; HashSet/src/CountOccurrence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/5_1_File_basics/FileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_4_Account_inheritance/2_4_Account_inheritance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_4_Account_inheritance/src/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_4_Account_inheritance/src/CheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_4_Account_inheritance/src/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/src/WashingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/src/WashingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_2_abstrect_class.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,20 +57,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART III - Package &amp; Interface\3_2_interfaces\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART VII - Collection Framework and Generic" />
+      <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART III - Package &amp; Interface" />
       <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART VI - Multithreading" />
       <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART V - File Handling &amp; Streams" />
-      <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART III - Package &amp; Interface" />
       <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART II - OOP" />
-      <recent name="G:\Other computers\My Laptop\college document\0 SEM 3\CE 251 JAVA\Java-practicals\src\PART I - BASICS" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
