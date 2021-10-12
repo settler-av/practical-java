@@ -4,59 +4,10 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PART_I_Basics/III_digitCompare/DigitCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="changed file hierarchy">
+      <change afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/exceptionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_2/7_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_2/src/AlphabeticSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_2/src/TEST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-practicals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-practicals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_2_strings/1_2_strings.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_2_strings/src/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/II_Strings/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_4_arrays/1_4_arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_4_arrays/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/IV_arrays/arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_5_/1_5_.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_5_/src/TriFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/V_recursion/TriFun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART I - BASICS/1_5_/src/reccursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/V_recursion/recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_1_Constructor/2_1_Constructor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_1_Constructor/src/Main/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_1_Constructor/src/Main/TestCylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/TestCylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/2_2_Account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/checkingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/checkingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_2-3-4_Account/src/savingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/savingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/2_5_Method_overloading.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/V_overloading/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/src/WashingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/V_overloading/WashingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART II - OOP/2_5_Method_overloading/src/waterTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/V_overloading/waterTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/3_1_abstrect_class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/src/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/GeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_1_abstrect_class/src/TestGeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/TestGeometricObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/IPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/IScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src/photoPrintMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/photoPrintMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_3_interfaces inheritance/src/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_1_File_basics/5_1_File_basics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_1_File_basics/src/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/I_fileClass/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_2_char-byte_stream/5_2_char-byte_stream.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_2_char-byte_stream/src/5_2_char-byte_streams.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/II_Streams/5_2_char-byte_streams.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/5_3_data_transfer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/src/CopyFromFileaToFileb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/III_fileTransfer/CopyFromFileaToFileb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/src/sourcefile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/III_fileTransfer/sourcefile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART V - File Handling &amp; Streams/5_3_data_transfer/src/targetfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/III_fileTransfer/targetfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART VI - Multithreading/6_1_RunnableInterface_ThreadClass/6_1_RunnableInterface_ThreadClass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART VI - Multithreading/6_1_RunnableInterface_ThreadClass/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/I_createTread/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART VI - Multithreading/6_2_RandomNumbers/6_2_RandomNumbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART VI - Multithreading/6_2_RandomNumbers/src/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/II_randomNumbers/RandomDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART VII - Collection Framework and Generic/7_2 HashMap &amp; HashSet/src/CountOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/I_aboutJava/Info.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +22,8 @@
       <list>
         <option value="module-info" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,7 +47,6 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
@@ -126,17 +76,10 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringDemo">
+  <component name="RunManager" selected="Application.exceptionDemo">
     <configuration name="AlphabeticSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlphabeticSort" />
       <module name="7_2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_V_fileHnadling.I_fileClass.FileDemo" />
-      <module name="Java-practicals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -168,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_IV_exception_handling.I_typesOfException.exceptionDemo" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_IV_exception_handling.I_typesOfException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exceptionDemo" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.AlphabeticSort" />
         <item itemvalue="Application.RandomDemo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FileDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +157,8 @@
       <workItem from="1633575728014" duration="2851000" />
       <workItem from="1633607717891" duration="11587000" />
       <workItem from="1633667765448" duration="2753000" />
-      <workItem from="1633780762063" duration="4072000" />
+      <workItem from="1633780762063" duration="5536000" />
+      <workItem from="1634046673839" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -252,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633670519692</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changed file hierarchy">
+      <created>1633784948175</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633784948175</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +253,7 @@
     <MESSAGE value="done with ATM class" />
     <MESSAGE value="make subclass of Account class" />
     <MESSAGE value="done with hashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with hashMap" />
+    <MESSAGE value="changed file hierarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed file hierarchy" />
   </component>
 </project>
