@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with FileDemo.java">
-      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/i_genricMethod/Question 7-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with genericSort" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +186,7 @@
       <workItem from="1634128152764" duration="5928000" />
       <workItem from="1634274532467" duration="596000" />
       <workItem from="1634405273214" duration="314000" />
-      <workItem from="1634405674754" duration="15194000" />
+      <workItem from="1634405674754" duration="15861000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -415,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634451465814</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="done with genericSort">
+      <created>1634452611760</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1634452611760</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +449,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="regular update" />
     <MESSAGE value="-" />
     <MESSAGE value="done with ATM class" />
     <MESSAGE value="make subclass of Account class" />
@@ -470,6 +473,7 @@
     <MESSAGE value="done with interface inheritance" />
     <MESSAGE value="done with MethodOverridingDemo" />
     <MESSAGE value="done with FileDemo.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with FileDemo.java" />
+    <MESSAGE value="done with genericSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with genericSort" />
   </component>
 </project>
