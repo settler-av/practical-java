@@ -4,8 +4,11 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="cleaning workflow">
-      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Question 3-1.md" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with GeometricObj">
+      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/Question 3-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/photoPrintMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/photoPrintMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +191,7 @@
       <workItem from="1634128152764" duration="5928000" />
       <workItem from="1634274532467" duration="596000" />
       <workItem from="1634405273214" duration="314000" />
-      <workItem from="1634405674754" duration="10443000" />
+      <workItem from="1634405674754" duration="10894000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -372,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634447368285</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="done with GeometricObj">
+      <created>1634447769771</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1634447769771</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,6 +434,7 @@
     <MESSAGE value="corner files" />
     <MESSAGE value="deleted files" />
     <MESSAGE value="cleaning workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaning workflow" />
+    <MESSAGE value="done with GeometricObj" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with GeometricObj" />
   </component>
 </project>

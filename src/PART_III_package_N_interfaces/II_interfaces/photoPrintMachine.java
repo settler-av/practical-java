@@ -9,4 +9,9 @@ package PART_III_package_N_interfaces.II_interfaces;
 public class photoPrintMachine implements IScanner, IPrinter{
     // TODO: 10/8/2021 add obj of class using vectors in PART_II_OOP.II_to_IV_banking.PART_III_package_N_interfaces.II_interfaces.Main class
 
+
+    @Override
+    public void scan() {
+        System.out.println("Scan page.");
+    }
 }
