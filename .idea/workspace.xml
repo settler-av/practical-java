@@ -4,11 +4,13 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with GeometricObj">
-      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/Question 3-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/IScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/photoPrintMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/II_interfaces/photoPrintMachine.java" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="todo interfaces">
+      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/InterfaceInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/Question 3-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/III_interfaceInheritance/P2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,7 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.recursion">
+  <component name="RunManager" selected="Application.InterfaceInheritanceDemo">
     <configuration name="DigitCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PART_I_Basics.III_digitCompare.DigitCompare" />
       <module name="Java-practicals" />
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionWithFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_IV_exception_handling.III_finally.ExceptionWithFinally" />
+    <configuration name="InterfaceInheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_III_package_N_interfaces.III_interfaceInheritance.InterfaceInheritanceDemo" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_IV_exception_handling.III_finally.*" />
+          <option name="PATTERN" value="PART_III_package_N_interfaces.III_interfaceInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceInheritanceDemo" />
         <item itemvalue="Application.recursion" />
         <item itemvalue="Application.arrays" />
         <item itemvalue="Application.DigitCompare" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.ExceptionWithFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,7 @@
       <workItem from="1634128152764" duration="5928000" />
       <workItem from="1634274532467" duration="596000" />
       <workItem from="1634405273214" duration="314000" />
-      <workItem from="1634405674754" duration="10894000" />
+      <workItem from="1634405674754" duration="13403000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -382,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634447769771</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="todo interfaces">
+      <created>1634448163170</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1634448163170</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,6 +444,7 @@
     <MESSAGE value="deleted files" />
     <MESSAGE value="cleaning workflow" />
     <MESSAGE value="done with GeometricObj" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with GeometricObj" />
+    <MESSAGE value="todo interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo interfaces" />
   </component>
 </project>
