@@ -5,7 +5,6 @@ import java.io.FileReader;
 
 /**
  * WAP to show the try - catch block to catch the different types of exception
- *
  * @author Adnan Vahora
  */
 public class exceptionDemo {
