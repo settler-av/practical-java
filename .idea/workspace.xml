@@ -4,17 +4,8 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="Done with cylinder class">
-      <change afterPath="$PROJECT_DIR$/src/PART_II_OOP/II_to_IV_banking/ReadMeForBanking.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PART_II_OOP/V_overloading/Question 1-5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/III_finally/ExceptionWithFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/III_finally/ExceptionWithFinally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/I_typesOfException/exceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/I_typesOfException/exceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/exceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/exceptionDemo.java" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="cleaning workflow">
+      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Question 3-1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +40,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1xbxRBe6vaxoV4fOlWLtfGk9Lv4" />
   <component name="ProjectViewState">
@@ -200,7 +188,7 @@
       <workItem from="1634128152764" duration="5928000" />
       <workItem from="1634274532467" duration="596000" />
       <workItem from="1634405273214" duration="314000" />
-      <workItem from="1634405674754" duration="10025000" />
+      <workItem from="1634405674754" duration="10443000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -356,7 +344,35 @@
       <option name="project" value="LOCAL" />
       <updated>1634446555847</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Some of remaining ReadMes">
+      <created>1634447265844</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1634447265844</updated>
+    </task>
+    <task id="LOCAL-00024" summary="corner files">
+      <created>1634447308411</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1634447308411</updated>
+    </task>
+    <task id="LOCAL-00025" summary="deleted files">
+      <created>1634447334930</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1634447334930</updated>
+    </task>
+    <task id="LOCAL-00026" summary="cleaning workflow">
+      <created>1634447368285</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1634447368285</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,6 +420,10 @@
     <MESSAGE value="done with recursion.java" />
     <MESSAGE value="Done with part 1" />
     <MESSAGE value="Done with cylinder class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done with cylinder class" />
+    <MESSAGE value="Some of remaining ReadMes" />
+    <MESSAGE value="corner files" />
+    <MESSAGE value="deleted files" />
+    <MESSAGE value="cleaning workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning workflow" />
   </component>
 </project>
