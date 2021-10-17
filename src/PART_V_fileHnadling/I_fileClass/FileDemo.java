@@ -23,6 +23,7 @@ public class FileDemo {
         --- File(String directoryPath, String fileName)
         --- File(File dirObj, String fileName)
         --- File(URI uriObj)
+
 */
         //File with directory path as argument
         File f1 = new File("G:\\Other computers\\My Laptop\\college document\\0 SEM 3\\CE 251 JAVA\\Java-practicals\\5_1_File_basics\\src");
