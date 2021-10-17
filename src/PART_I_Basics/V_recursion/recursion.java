@@ -18,6 +18,12 @@ public class recursion {
         Scanner sc = new Scanner(System.in);
         int yourInput;
         yourInput = sc.nextInt();
+        for (int i=1; i<=yourInput;i++){
+            for (int j=1; j<=i;j++){
+                System.out.print("* ");
+            }
+            System.out.println("");
+        }
         System.out.println("The required number of blocks are "+ t2.triangle(yourInput));
     }
 }
