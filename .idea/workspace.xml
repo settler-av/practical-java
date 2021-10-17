@@ -4,9 +4,20 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="Learn how to make custom exception.">
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with arrays.java">
+      <change afterPath="$PROJECT_DIR$/src/PART_I_Basics/V_recursion/Question 1-5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_VII_collectionFramework/i_genricMethod/BubbleSortGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/i_genricMethod/BubbleSortGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/III_finally/ExceptionWithFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/III_finally/ExceptionWithFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/I_typesOfException/exceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_IV_exception_handling/I_typesOfException/exceptionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/IV_arrays/arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/IV_arrays/arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/I_aboutJava/Info.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/V_recursion/recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/V_recursion/recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/II_throwNthrows/TestCustomException1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/exceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_IV_exception_handling/I_typesOfException/exceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_I_Basics/V_recursion/recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/V_recursion/recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +44,17 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1xbxRBe6vaxoV4fOlWLtfGk9Lv4" />
   <component name="ProjectViewState">
@@ -75,20 +97,26 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="AlphabeticSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlphabeticSort" />
-      <module name="7_2" />
+  <component name="RunManager" selected="Application.recursion">
+    <configuration name="DigitCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_I_Basics.III_digitCompare.DigitCompare" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_I_Basics.III_digitCompare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.i_genricMethod.BubbleSortGeneric" />
+    <configuration name="ExceptionWithFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_IV_exception_handling.III_finally.ExceptionWithFinally" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_VII_collectionFramework.i_genricMethod.*" />
+          <option name="PATTERN" value="PART_IV_exception_handling.III_finally.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_IV_exception_handling.I_typesOfException.exceptionDemo" />
+    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_I_Basics.IV_arrays.arrays" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_IV_exception_handling.I_typesOfException.*" />
+          <option name="PATTERN" value="PART_I_Basics.IV_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.i_genricMethod.test" />
+    <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_I_Basics.V_recursion.recursion" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_VII_collectionFramework.i_genricMethod.*" />
+          <option name="PATTERN" value="PART_I_Basics.V_recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.BubbleSortGeneric" />
-        <item itemvalue="Application.exceptionDemo" />
+        <item itemvalue="Application.recursion" />
+        <item itemvalue="Application.arrays" />
+        <item itemvalue="Application.DigitCompare" />
         <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.AlphabeticSort" />
+        <item itemvalue="Application.ExceptionWithFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +200,10 @@
       <workItem from="1634046673839" duration="4578000" />
       <workItem from="1634056120862" duration="1432000" />
       <workItem from="1634118483653" duration="1572000" />
-      <workItem from="1634128152764" duration="4413000" />
+      <workItem from="1634128152764" duration="5928000" />
+      <workItem from="1634274532467" duration="596000" />
+      <workItem from="1634405273214" duration="314000" />
+      <workItem from="1634405674754" duration="9134000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -244,7 +275,56 @@
       <option name="project" value="LOCAL" />
       <updated>1634055907111</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Done with multi-catch block">
+      <created>1634439937246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634439937246</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done with Question 1-.md">
+      <created>1634440775972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634440775972</updated>
+    </task>
+    <task id="LOCAL-00013" summary="done with Question 1-.md">
+      <created>1634440794485</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634440794485</updated>
+    </task>
+    <task id="LOCAL-00014" summary="done with StringDemo.java">
+      <created>1634444207863</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634444207863</updated>
+    </task>
+    <task id="LOCAL-00015" summary="done with StringDemo.java">
+      <created>1634444506616</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1634444506616</updated>
+    </task>
+    <task id="LOCAL-00016" summary="done with DigitCompare.java">
+      <created>1634445326225</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1634445326225</updated>
+    </task>
+    <task id="LOCAL-00017" summary="done with arrays.java">
+      <created>1634445961866</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1634445961866</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +364,11 @@
     <MESSAGE value="changed file hierarchy" />
     <MESSAGE value="done with ExceptionDemo" />
     <MESSAGE value="Learn how to make custom exception." />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn how to make custom exception." />
+    <MESSAGE value="Done with multi-catch block" />
+    <MESSAGE value="done with Question 1-.md" />
+    <MESSAGE value="done with StringDemo.java" />
+    <MESSAGE value="done with DigitCompare.java" />
+    <MESSAGE value="done with arrays.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with arrays.java" />
   </component>
 </project>
