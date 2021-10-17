@@ -34,7 +34,7 @@ public class StringDemo {
     public static void main(String[] args) {
         //Enter the input from user side
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the Mobile number : ");
+        System.out.print("Enter the Mobile number : ");
         String mobileNumber = in.nextLine();
         boolean result = validateNumber(mobileNumber);
         if (result) {
@@ -56,8 +56,11 @@ public class StringDemo {
             String[] splitNumber = Number.split("-", 4);
             if ((splitNumber[0].length() == 3) && splitNumber[0].contentEquals("+91")) {
                 if ((splitNumber[1].length() == 2) && onlyDigits(splitNumber[1])) {
+                    System.out.println("Mobile system operator code is " + splitNumber[1]);
                     if ((splitNumber[2].length() == 3) && onlyDigits(splitNumber[2])) {
+                        System.out.println("MSC is " + splitNumber[2]);
                         if ((splitNumber[3].length() == 5) && onlyDigits(splitNumber[3])) {
+                            System.out.println("Unique code is " + splitNumber[3]);
                             return true;
                         } else {
                             //for "CCCCC"
