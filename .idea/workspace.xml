@@ -4,8 +4,9 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with MethodOverridingDemo">
-      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/I_fileClass/Question 5-1.md" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with FileDemo.java">
+      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/i_genricMethod/Question 7-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +189,7 @@
       <workItem from="1634128152764" duration="5928000" />
       <workItem from="1634274532467" duration="596000" />
       <workItem from="1634405273214" duration="314000" />
-      <workItem from="1634405674754" duration="14209000" />
+      <workItem from="1634405674754" duration="15194000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -407,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634451025236</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="done with FileDemo.java">
+      <created>1634451465814</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1634451465814</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add question to the comment" />
     <MESSAGE value="regular update" />
     <MESSAGE value="-" />
     <MESSAGE value="done with ATM class" />
@@ -462,6 +469,7 @@
     <MESSAGE value="todo interfaces" />
     <MESSAGE value="done with interface inheritance" />
     <MESSAGE value="done with MethodOverridingDemo" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with MethodOverridingDemo" />
+    <MESSAGE value="done with FileDemo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with FileDemo.java" />
   </component>
 </project>
