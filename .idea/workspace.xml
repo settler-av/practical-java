@@ -4,12 +4,11 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="write theory char stream over byte stream">
-      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/IV_streamsPrac/JavaStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/IV_streamsPrac/paste.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/IV_streamsPrac/src.txt" afterDir="false" />
+    <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="write program char stream over byte stream">
+      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/V_buffer/Even.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/V_buffer/Question.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/V_buffer/onlyEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/I_fileClass/FileDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/I_fileClass/FileDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,20 +85,7 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaStreams">
-    <configuration name="DigitCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_I_Basics.III_digitCompare.DigitCompare" />
-      <module name="Java-practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PART_I_Basics.III_digitCompare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.onlyEven">
     <configuration name="InterfaceInheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PART_III_package_N_interfaces.III_interfaceInheritance.InterfaceInheritanceDemo" />
       <module name="Java-practicals" />
@@ -139,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="onlyEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_V_fileHnadling.V_buffer.onlyEven" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_V_fileHnadling.V_buffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PART_I_Basics.V_recursion.recursion" />
       <module name="Java-practicals" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.onlyEven" />
         <item itemvalue="Application.JavaStreams" />
         <item itemvalue="Application.InterfaceInheritanceDemo" />
         <item itemvalue="Application.recursion" />
         <item itemvalue="Application.arrays" />
-        <item itemvalue="Application.DigitCompare" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +195,7 @@
       <workItem from="1634549554542" duration="938000" />
       <workItem from="1634643535796" duration="186000" />
       <workItem from="1635410280262" duration="595000" />
-      <workItem from="1635418000661" duration="8093000" />
+      <workItem from="1635418000661" duration="10837000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -457,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635424791660</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="write program char stream over byte stream">
+      <created>1635429088216</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1635429088216</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +493,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="done with ATM class" />
     <MESSAGE value="make subclass of Account class" />
     <MESSAGE value="done with hashMap" />
     <MESSAGE value="changed file hierarchy" />
@@ -512,18 +517,8 @@
     <MESSAGE value="done with FileDemo.java" />
     <MESSAGE value="done with genericSort" />
     <MESSAGE value="write theory char stream over byte stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="write theory char stream over byte stream" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PART_V_fileHnadling/IV_streamsPrac/JavaStreams.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="write program char stream over byte stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="write program char stream over byte stream" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practical_java$JavaStreams.ic" NAME="JavaStreams Coverage Results" MODIFIED="1635427010778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
