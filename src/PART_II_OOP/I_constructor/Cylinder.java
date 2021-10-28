@@ -23,6 +23,7 @@ public class Cylinder {
     Cylinder(double radius){
         System.out.println("Call of parameterized constructor with 1 argument");
         this.radius = radius;
+        this.height = radius;
     }
     //two argument constructor
     Cylinder(double radius, double height){
@@ -35,4 +36,11 @@ public class Cylinder {
         return (Math.PI*Math.pow(radius,2)*height);
     }
 
+    @Override
+    public String toString() {
+        return "Cylinder{" +
+               "radius=" + radius +
+               ", height=" + height +
+               '}';
+    }
 }
