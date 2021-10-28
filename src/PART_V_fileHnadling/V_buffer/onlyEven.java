@@ -31,6 +31,7 @@ public class onlyEven {
             if (tempInput % 2 == 0) {
                 out.write(tempInput);
             }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
