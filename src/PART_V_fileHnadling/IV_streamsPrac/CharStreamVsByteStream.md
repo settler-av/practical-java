@@ -16,7 +16,7 @@ character by character.
 For example FileReader and FileWriter are character streams used
 to read from source and write to destination.
 
-![img.png](img.png)
+![img.png](img.png) 
 _____________
 <div aria-setsize="15" align="center">Byte Stream</div>
 Byte streams process data byte by byte (8 bits). 
