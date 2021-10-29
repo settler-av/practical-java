@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with part V">
-      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/II_mapAndSet/WordFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/five/BikeCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/III_sleepMethod/P6p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/III_sleepMethod/P6p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/ProducerConsumerProblem/P6p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/ThreeThread/P6p4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_VI_Multithreading/II_randomNumbers/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/II_randomNumbers/RandomDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,13 +89,13 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordFrequency">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.I_createTread.HelloWorld" />
+  <component name="RunManager" selected="Application.P6p5">
+    <configuration name="P6p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.III_sleepMethod.P6p2" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_VI_Multithreading.I_createTread.*" />
+          <option name="PATTERN" value="PART_VI_Multithreading.III_sleepMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoanEligibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.III_ArrayList.LoanEligibility" />
+    <configuration name="P6p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.III_sleepMethod.P6p3" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_VII_collectionFramework.III_ArrayList.*" />
+          <option name="PATTERN" value="PART_VI_Multithreading.III_sleepMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6p4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.ThreeThread.P6p4" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_VI_Multithreading.ThreeThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P6p5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.ProducerConsumerProblem.P6p5" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_VI_Multithreading.ProducerConsumerProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,39 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onlyEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_V_fileHnadling.V_buffer.onlyEven" />
-      <module name="Java-practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PART_V_fileHnadling.V_buffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.i_genricMethod.test" />
-      <module name="Java-practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PART_VII_collectionFramework.i_genricMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P6p5" />
+        <item itemvalue="Application.P6p4" />
+        <item itemvalue="Application.P6p3" />
+        <item itemvalue="Application.P6p2" />
         <item itemvalue="Application.WordFrequency" />
-        <item itemvalue="Application.LoanEligibility" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.onlyEven" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +205,8 @@
       <workItem from="1635474659098" duration="669000" />
       <workItem from="1635475675371" duration="327000" />
       <workItem from="1635480235452" duration="2923000" />
+      <workItem from="1635484707459" duration="1289000" />
+      <workItem from="1635487664931" duration="3287000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -548,6 +551,10 @@
     <MESSAGE value="write program for buffer reader and buffer writer" />
     <MESSAGE value="done with part V" />
     <option name="LAST_COMMIT_MESSAGE" value="done with part V" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practical_java$JavaStreams.ic" NAME="JavaStreams Coverage Results" MODIFIED="1635427010778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
