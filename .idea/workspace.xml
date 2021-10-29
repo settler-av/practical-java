@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90800554-daff-49cc-a223-f898758e15e6" name="Changes" comment="done with part V">
-      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/II_mapAndSet/Question 7-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/II_mapAndSet/WordFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_II_OOP/I_constructor/Cylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_II_OOP/I_constructor/Cylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_II_OOP/I_constructor/TestCylinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_II_OOP/I_constructor/TestCylinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/IV_arrays/arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_I_Basics/IV_arrays/arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/III_fileTransfer/targetfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/III_fileTransfer/targetfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/V_buffer/Even.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/V_buffer/Even.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/V_buffer/onlyEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-practicals/PART_V_fileHnadling/V_buffer/onlyEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/TestCylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_II_OOP/I_constructor/TestCylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_I_Basics/IV_arrays/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_I_Basics/IV_arrays/arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_III_package_N_interfaces/I_abstract/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/LoanEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VII_collectionFramework/III_ArrayList/Question.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PART_VI_Multithreading/II_randomNumbers/RandomDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_VI_Multithreading/II_randomNumbers/RandomDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_V_fileHnadling/III_fileTransfer/targetfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/III_fileTransfer/targetfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PART_V_fileHnadling/V_buffer/Even.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PART_V_fileHnadling/V_buffer/Even.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PART III - Package &amp; Interface/3_2_interfaces/src" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -95,20 +88,7 @@
       <recent name="PART_II_OOP.I_constructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="CopyFromFileaToFileb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_V_fileHnadling.III_fileTransfer.CopyFromFileaToFileb" />
-      <module name="Java-practicals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PART_V_fileHnadling.III_fileTransfer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WordFrequency">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PART_VI_Multithreading.I_createTread.HelloWorld" />
       <module name="Java-practicals" />
@@ -122,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PART_V_fileHnadling.IV_streamsPrac.JavaStreams" />
+    <configuration name="LoanEligibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.III_ArrayList.LoanEligibility" />
       <module name="Java-practicals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PART_V_fileHnadling.IV_streamsPrac.*" />
+          <option name="PATTERN" value="PART_VII_collectionFramework.III_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PART_VII_collectionFramework.II_mapAndSet.WordFrequency" />
+      <module name="Java-practicals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PART_VII_collectionFramework.II_mapAndSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordFrequency" />
+        <item itemvalue="Application.LoanEligibility" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.onlyEven" />
-        <item itemvalue="Application.JavaStreams" />
-        <item itemvalue="Application.CopyFromFileaToFileb" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +200,10 @@
       <workItem from="1635410280262" duration="595000" />
       <workItem from="1635418000661" duration="11420000" />
       <workItem from="1635438102790" duration="9726000" />
-      <workItem from="1635448769210" duration="621000" />
+      <workItem from="1635448769210" duration="1391000" />
+      <workItem from="1635474659098" duration="669000" />
+      <workItem from="1635475675371" duration="327000" />
+      <workItem from="1635480235452" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="edit author name">
       <created>1633521935535</created>
@@ -489,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635440704035</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="done with part V">
+      <created>1635449858280</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1635449858280</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

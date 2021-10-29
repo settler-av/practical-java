@@ -5,7 +5,6 @@ import static java.lang.Math.pow;
 
 public class Circle extends GeometricObject {
     private double radius;
-
     /**
      * Default Constructor
      */
