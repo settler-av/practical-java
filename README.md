@@ -9,39 +9,3 @@
 
 ![java complete reference](https://images-na.ssl-images-amazon.com/images/I/51Xhwv2+hZL._SX258_BO1,204,203,200_.jpg)
 ![java complete reference](https://images-na.ssl-images-amazon.com/images/I/41j1x70+n2L._SY344_BO1,204,203,200_.jpg)
-
-
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-
-.
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
-
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
